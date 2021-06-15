@@ -1,0 +1,5 @@
+- 👋 Hi, We are @GDGAddis
+- 👀 We're passionated individual gathered for one goal.
+- 🌱 We are currently helping our fellow community memebers to develop their skill in software development.
+- 💞️ We're looking forward to get as many help as we can to help our community grow.
+- 📫 You can reach to us through our social media profiles @GDGAddis
